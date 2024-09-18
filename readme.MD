@@ -8,3 +8,5 @@
 - git log
 - git diff
 - git main~
+- git switch 
+- git branch 
