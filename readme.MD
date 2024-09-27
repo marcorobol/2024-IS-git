@@ -18,3 +18,11 @@
 
 - forks
 - issues
+- pull requests
+- reviews
+
+# Git workflows
+
+- centralized
+- feature branch
+- gitflow
