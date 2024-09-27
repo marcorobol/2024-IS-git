@@ -12,6 +12,6 @@
 - git branch 
 
 
-## feature branch
+## Feature Branch
 
 ## Pull Requests
